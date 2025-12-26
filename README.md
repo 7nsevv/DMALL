@@ -1,4 +1,4 @@
 # DMALL
 dm all you'r friends in discord ;)
 
-put you'r token in client login.
+open the folder of th dmall and run the terminal and write node index or run vsc open terminal and run node index
